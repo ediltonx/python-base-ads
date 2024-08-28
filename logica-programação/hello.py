@@ -8,7 +8,7 @@ print ("Hello Pythoners")
 
 # escrever usando .format
 
-print ("{} {} usando {}".format("Hello" , "Pythoners", "Format"))
+print ("{} {} usando {} ".format("Hello" , "Pythoners", "Format"))
 
 # Modo herdado da linguagem C referenciando endereço de memoria
 
