@@ -1,4 +1,10 @@
+#!/usr/bin/env python3
 from rich import print  # type: ignore
+
+
+__version__ = "0.0.1"
+__author__ = "Edilton Jr""
+__license__ = "Unlicensed"
 
 # ESCREVER FRASES EM PYTHON
 
