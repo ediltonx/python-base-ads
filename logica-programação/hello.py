@@ -29,3 +29,4 @@ print (f"{a} {aa} {aaa}")
 # usando a biblioteca rich para mudar o estilo do texto impresso
 
 print("[bold blue]Hello Pythoners[/bold blue] [italic green]totalmente[/italic green] [red]estilizado[/red]")
+
